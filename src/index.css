@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+}
+
+.mt {
+  margin-top: 10px;
+}
+
+/* .width{
+    width: 200px;
+}
+
+.h-200{
+    height: 200px;
+} */
+
+.card {
+  width: 24rem;
+  height: auto;
+}
+.gridcontainerspacing {
+  background-color: blueviolet;
+}
+/*{ .grid1 {
+  /* background-color: rgb(196, 75, 75); */
+  /* padding: 7px; */
+  /* margin: 900px;
+  padding: 30px; 
+} */
+/* .grid2 {
+  /* background-color: blue; 
+} */
+
+/* .grid3 {
+  /* background-color: brown; 
+} */
+.grid {
+  /* display: inline; */
+  background-color: rgba(19, 188, 0, 0.686);
+}
+
+/* .grid2{
+        width: 100%;
+    }
+     */
+.Grid {
+  margin-bottom: 7px;
+  /* width: 20%; */
+}
+
+.Grid2{
+    margin:9px;
+    /* padding: 40px; */
+}
